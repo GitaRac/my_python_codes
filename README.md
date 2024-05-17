@@ -44,5 +44,7 @@ while True:
 print(f"Correct guesses: {correct_guesses}, Total guesses: {total_guesses}")
 ```
 
-![image](https://github.com/GitaRac/my_python_codes/assets/165934633/1951cc95-d5bc-48f7-8ad2-ce8327607894)
+![image](https://github.com/GitaRac/my_python_codes/assets/165934633/3ae018b2-b8e5-43b0-833d-60fa06b66215)
+
+
 
